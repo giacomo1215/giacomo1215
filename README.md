@@ -21,3 +21,14 @@
         <a href="https://www.sirfrancisdrakepub.com/" target="_blank">Sir Francis Drake Pub</a>
     </li>
 </ul>
+<hr />
+<h3>How can you reach me?</h3>
+<p>You can reach me at any of the following:</p>
+<ul>
+    <li>
+        <a href="https://www.instagram.com/giacomo1215">Instagram</a>
+    </li>
+    <li>
+        <a href="mailto:giacomo1215@gmail.com">E-Mail</a>
+    </li>
+</ul>
