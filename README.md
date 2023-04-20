@@ -1,5 +1,5 @@
 <h1>
-    I'm Giac!
+    I'm Giac! 👋
 </h1>
 <p>
     Hello there! How are you doing?<br />
