@@ -1,39 +1,25 @@
-<h1>
-    I'm Giac! 👋
-</h1>
-<p>
-    Hello there! How are you doing?<br />
-    My name is Giacomo, I like doing a lot of front-end things, although I'm mainly oriented into graphic design and photo/video work.
-</p>
-<hr />
-<h3>What are some of my works?</h3>
-<ul>
-    <li>
-        <a href="https://www.0000runners.com/" target="_blank">Midnight Runners</a>
-    <li>
-        <a href="https://www.vsvcarriers.com/" target="_blank">vsvcarriers.com</a>
-    </li>
-    <li>
-        <a href="https://www.portabiciclette.ie/" target="_blank">Portabiciclette.it</a>
-    </li>
-    <li>
-        <a href="https://www.gudereit.it/" target="_blank">Gudereit.it</a>
-    </li>
-    <li>
-        <a href="https://www.zeat.eu/" target="_blank">Zeat.eu</a> (frontend design for desktop and mobile)
-    </li>
-    <li>
-        <a href="https://www.sirfrancisdrakepub.com/" target="_blank">Sir Francis Drake Pub</a>
-    </li>
-</ul>
-<hr />
-<h3>How can you reach me?</h3>
-<p>You can reach me at any of the following:</p>
-<ul>
-    <li>
-        <a href="https://www.instagram.com/giacomo1215">Instagram</a>
-    </li>
-    <li>
-        <a href="mailto:giacomo1215@gmail.com">E-Mail</a>
-    </li>
-</ul>
+# I'm Giac! 👋
+---
+
+Hello there! How are you doing?  
+My name is Giacomo, I like doing a lot of front-end things, although I'm mainly oriented into graphic design and photo/video work.
+
+* * *
+
+### What are some of my works?
+
+*   [Midnight Runners](https://www.0000runners.com/)
+*   [vsvcarriers.com](https://www.vsvcarriers.com/)
+*   [Portabiciclette.it](https://www.portabiciclette.it/)
+*   [Gudereit.it](https://www.gudereit.it/)
+*   [Zeat.eu](https://www.zeat.eu/) (frontend design for desktop and mobile)
+*   [Sir Francis Drake Pub](https://www.sirfrancisdrakepub.com/)
+
+* * *
+
+### How can you reach me?
+
+You can reach me at any of the following:
+
+*   [Instagram](https://www.instagram.com/giacomo1215)
+*   [E-Mail](mailto:giacomo1215@gmail.com)
