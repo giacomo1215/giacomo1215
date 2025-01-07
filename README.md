@@ -8,6 +8,7 @@ My name is Giacomo, I like doing a lot of front-end things, although I'm mainly 
 
 ### What are some of my works?
 
+*   [Zeat Maps](https://www.zeat.eu/) (Demo coming soon)
 *   [Midnight Runners](https://www.0000runners.com/)
 *   [vsvcarriers.com](https://www.vsvcarriers.com/)
 *   [Portabiciclette.it](https://www.portabiciclette.it/)
