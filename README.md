@@ -2,7 +2,8 @@
 ---
 
 Hello there! How are you doing?  
-My name is Giacomo, I like doing a lot of front-end things, although I'm mainly oriented into graphic design and photo/video work.
+My name is Giacomo, I am a Software Engineer from the SF Bay Area, living in Padova, IT.
+I mainly work in C#/Java/VB.NET, and am now experimenting work with ML.
 
 * * *
 
