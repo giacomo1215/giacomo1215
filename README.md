@@ -8,14 +8,9 @@ I mainly work in C#/Java/VB.NET, and am now experimenting work with ML.
 * * *
 
 ### What are some of my works?
-
-*   [Zeat Maps](https://www.zeat.eu/) (Demo coming soon)
-*   [Midnight Runners](https://www.0000runners.com/)
-*   [vsvcarriers.com](https://www.vsvcarriers.com/)
-*   [Portabiciclette.it](https://www.portabiciclette.it/)
-*   [Gudereit.it](https://www.gudereit.it/)
-*   [Zeat.eu](https://www.zeat.eu/) (frontend design for desktop and mobile)
-*   [Sir Francis Drake Pub](https://www.sirfrancisdrakepub.com/)
+*   [Java SSTV](https://github.com/giacomo1215/JavaSSTV)
+*   [QRGen](https://giacomo1215.github.io/QRGen/)
+*   [WP Italian Fiscal Code Injector](https://github.com/giacomo1215/WooCodiceFiscale)
 
 * * *
 
