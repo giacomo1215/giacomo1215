@@ -2,9 +2,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=giacomo1215&color=blue)
 ![GitHub Followers](https://img.shields.io/github/followers/giacomo1215?style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/giacomo1215?style=social)
-
-![💬 GitHub Last Commit](https://img.shields.io/github/last-commit/giacomo1215/giacomo1215)
-![🧠 HackerRank Score](https://img.shields.io/badge/HackerRank-AVLJ6V-purple)
 ![⚡ Speed](https://img.shields.io/badge/Performance-💨-blue)
 
 ---
